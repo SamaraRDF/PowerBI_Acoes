@@ -1,7 +1,7 @@
 ## 📊 Dashboard Analítico do Mercado de Ações 📊
 
 ### Descrição
-Este projeto consiste na construção de um Dashboard Analítico no Power BI, utilizando dados reais de quatro empresas: Tesla, Microsoft, Amazon e Aplle. Os dados foram extraídos do portal da Nasdaq e compreendem o período de um ano (18/07/2023 - 18/07/2024). O objetivo do dashboard é analisar a cotação das ações dessas empresas, permitindo insights valiosos sobre o mercado de ações.
+Este projeto consiste na construção de um Dashboard Analítico no Power BI, utilizando dados reais de quatro empresas: Tesla, Microsoft, Amazon e Apple. Os dados foram extraídos do portal da Nasdaq e compreendem o período de um ano (18/07/2023 - 18/07/2024). O objetivo do dashboard é analisar a cotação das ações dessas empresas, permitindo insights valiosos sobre o mercado de ações.
 
 ## Fonte dos Dados
 Os dados foram extraídos do portal Nasdaq: Nasdaq.
